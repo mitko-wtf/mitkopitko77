@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mitkopitko7
-- 👀 I’m interested in NFTs, Marketing and Branding
-- 🌱 I’m currently learning how to run an NFT project
-- 💞️ I’m looking to collaborate on not anything specific for now
+- 👀 I’m interested in NFTs, marketing and creating experiences
+- 🌱 I’m currently learning how to help NFT projects reach their target audience
+- 💞️ I’m looking to collaborate with builders in the web3 space
 - 📫 How to reach me https://twitter.com/mitkopitko7
 
 <!---
